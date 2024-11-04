@@ -34,13 +34,13 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-chno="12" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="General",Willax TV
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=3446449
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=ncghRz9vJiNU5OXdvS_2tDkyByU692NcWQsHKmo58RID9TashiofvObyX0KhzSlx5K4p1LL-s7AB3s2wMaEY7A&dmTs=946123&dmV1st=78e305c6-0b90-42ae-b7e4-458a2e2befcc
 
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP (480p) [Not 24/7]
 https://live-evg3.tv360.bitel.com.pe/audio/5fab3416b5f9ef165cfab6e9/live.m3u8?manifestfilter=video_bitrate:1-4194304&uid=3446449
 
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=3446449
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gxKy7JRwrW.jpg" group-title="News",Capital TV
 http://fuxxionpro.online:43201/iventagerv/7GGUjcu6GK/31436
